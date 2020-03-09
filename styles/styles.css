@@ -1,0 +1,23 @@
+#limo{
+    width: 90px;
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Alegreya&display=swap');
+
+body{
+    background-color: black;
+    font-family: 'Alegreya', serif;
+}
+
+#logo{
+    width: 690px;
+    z-index: 3;
+}
+
+#centro
+{
+    background: url(../images/fondo.jpg) center no-repeat;
+    background-size: cover;
+
+}
